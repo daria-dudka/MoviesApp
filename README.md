@@ -1,13 +1,13 @@
 # React Native Movies App
 
-This project was created with [React Native CLI](https://reactnative.dev/)
+This project was created with [React Native CLI](https://reactnative.dev/) and [themoviedb.org](https://www.themoviedb.org/) API
 
 https://user-images.githubusercontent.com/66278954/236181827-6ce18406-91b1-40c0-991e-1b190cba8d59.mp4
 
 ## Description
 This project is a practical React Native mobile app that was built using:
- - react native v0.71.7
- - [axios](https://www.npmjs.com/package/axios) - (Promise HTTP package)
+ - [react native v0.71.7](https://reactnative.dev/)
+ - [axios](https://www.npmjs.com/package/axios)
  - [react-navigation/native](https://reactnavigation.org/docs/getting-started/)
  - [react-native-image-slider-box](https://www.npmjs.com/package/react-native-image-slider-box)
  - [react-native-star-rating](https://www.npmjs.com/package/react-native-star-rating)
