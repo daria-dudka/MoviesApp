@@ -2,6 +2,8 @@
 
 This project was created with [React Native CLI](https://reactnative.dev/)
 
+https://user-images.githubusercontent.com/66278954/236181827-6ce18406-91b1-40c0-991e-1b190cba8d59.mp4
+
 ## Description
 This project is a practical React Native mobile app that was built using:
  - react native v0.71.7
@@ -20,4 +22,6 @@ To start the development server and run app on simulator or device
 #### `$ npx react-native run-android`
 
 #### `$ npx react-native run-ios`
+
+
 
